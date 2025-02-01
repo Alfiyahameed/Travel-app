@@ -1,6 +1,8 @@
 
 # Ready2GO – Travel Booking App (UI Design)
 
+[View Figma Design](https://www.figma.com/design/wqcRnra4e9uBPimJbY1x6K/Untitled?node-id=1-3&t=RgyYjzx2HRTwNK2C-1)
+
 ## Overview:
 Ready2GO is a modern travel booking app designed to help users find flights, accommodations, and rental cars effortlessly. With a sleek dark-themed UI, intuitive navigation, and a price tracking feature, the app enhances the travel planning experience.
 
